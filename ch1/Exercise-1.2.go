@@ -12,3 +12,5 @@ func main() {
 	}
 
 }
+
+//invoked  go run Exercise-1.2.go dog cat newt frog
